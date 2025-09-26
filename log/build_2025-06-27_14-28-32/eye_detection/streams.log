@@ -1,0 +1,33 @@
+[0.625s] Invoking command in '/home/pranav/eye_detection': PYTHONPATH=/home/pranav/eye_detection/build/eye_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/eye_detection/install/eye_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/eye_detection build --build-base /home/pranav/eye_detection/build/eye_detection/build install --record /home/pranav/eye_detection/build/eye_detection/install.log --single-version-externally-managed install_data
+[0.769s] /home/pranav/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[0.769s]   warnings.warn(msg)
+[0.873s] running egg_info
+[0.890s] creating build/eye_detection/eye_detection.egg-info
+[0.890s] writing build/eye_detection/eye_detection.egg-info/PKG-INFO
+[0.890s] writing dependency_links to build/eye_detection/eye_detection.egg-info/dependency_links.txt
+[0.891s] writing requirements to build/eye_detection/eye_detection.egg-info/requires.txt
+[0.891s] writing top-level names to build/eye_detection/eye_detection.egg-info/top_level.txt
+[0.891s] writing manifest file 'build/eye_detection/eye_detection.egg-info/SOURCES.txt'
+[0.926s] reading manifest file 'build/eye_detection/eye_detection.egg-info/SOURCES.txt'
+[0.927s] writing manifest file 'build/eye_detection/eye_detection.egg-info/SOURCES.txt'
+[0.927s] running build
+[0.927s] running build_py
+[0.927s] creating /home/pranav/eye_detection/build/eye_detection/build/lib/eye_detection
+[0.927s] copying eye_detection/eye_detection.py -> /home/pranav/eye_detection/build/eye_detection/build/lib/eye_detection
+[0.927s] copying eye_detection/__init__.py -> /home/pranav/eye_detection/build/eye_detection/build/lib/eye_detection
+[0.927s] running install
+[0.931s] running install_lib
+[0.949s] creating /home/pranav/eye_detection/install/eye_detection/lib/python3.10/site-packages/eye_detection
+[0.949s] copying /home/pranav/eye_detection/build/eye_detection/build/lib/eye_detection/eye_detection.py -> /home/pranav/eye_detection/install/eye_detection/lib/python3.10/site-packages/eye_detection
+[0.949s] copying /home/pranav/eye_detection/build/eye_detection/build/lib/eye_detection/__init__.py -> /home/pranav/eye_detection/install/eye_detection/lib/python3.10/site-packages/eye_detection
+[0.949s] byte-compiling /home/pranav/eye_detection/install/eye_detection/lib/python3.10/site-packages/eye_detection/eye_detection.py to eye_detection.cpython-310.pyc
+[0.950s] byte-compiling /home/pranav/eye_detection/install/eye_detection/lib/python3.10/site-packages/eye_detection/__init__.py to __init__.cpython-310.pyc
+[0.950s] running install_data
+[0.950s] creating /home/pranav/eye_detection/install/eye_detection/share/ament_index/resource_index/packages
+[0.950s] copying resource/eye_detection -> /home/pranav/eye_detection/install/eye_detection/share/ament_index/resource_index/packages
+[0.951s] copying package.xml -> /home/pranav/eye_detection/install/eye_detection/share/eye_detection
+[0.951s] running install_egg_info
+[0.969s] Copying build/eye_detection/eye_detection.egg-info to /home/pranav/eye_detection/install/eye_detection/lib/python3.10/site-packages/eye_detection-0.0.0-py3.10.egg-info
+[0.969s] running install_scripts
+[1.005s] writing list of installed files to '/home/pranav/eye_detection/build/eye_detection/install.log'
+[1.025s] Invoked command in '/home/pranav/eye_detection' returned '0': PYTHONPATH=/home/pranav/eye_detection/build/eye_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/pranav/eye_detection/install/eye_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/eye_detection build --build-base /home/pranav/eye_detection/build/eye_detection/build install --record /home/pranav/eye_detection/build/eye_detection/install.log --single-version-externally-managed install_data

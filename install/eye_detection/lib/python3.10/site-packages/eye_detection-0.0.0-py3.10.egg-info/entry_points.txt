@@ -1,0 +1,2 @@
+[console_scripts]
+eye_detection = eye_detection.eye_detection:main
